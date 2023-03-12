@@ -1,0 +1,11 @@
+				git add
+
+ This command add file or files to the staging area.`
+
+ Example of git add,
+
+ git add . = to add all files for staging.
+
+ git add [file_name] = to add a specific file for staging.
+
+ by doing this you are ready to commit.

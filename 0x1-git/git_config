@@ -1,0 +1,13 @@
+				git config
+
+ This is a command used to config a repository destination
+
+ Example of git config/ how to use
+
+ git config --global user.name "" = while the double quoat will contain the user name of the repository owner
+
+ git config --global user.email "" = while the double quoat will contain the user email
+
+
+
+by doing this you are ready to interact with  your repository

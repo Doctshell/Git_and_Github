@@ -1,0 +1,10 @@
+					git clone
+
+ This git command allows you to clone your repository in your local machine/ terminal
+
+ How to make use of git clone
+
+ git clone https://token/ssh
+
+
+ by doing this you have your repository in your terminal

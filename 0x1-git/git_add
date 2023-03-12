@@ -8,8 +8,6 @@
 
  git add [file_name] = to add a specific file for staging.
 
-<<<<<<< HEAD
-- by doing this you are ready to commit.
-=======
+
  by doing this you are ready to commit.
->>>>>>> 9f30489b6247f264c5b9a87f9790a10f24b95658
+
